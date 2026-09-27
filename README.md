@@ -11,7 +11,7 @@ BS Economics @ NUST | Pakistan | Open to Remote GTM Engineering
 <br/>
 
 <a href="https://abdulrahim-hash.github.io/">
-  <img src="./assets/gtm-portfolio-button.svg" alt="View GTM Engineering Portfolio" />
+  <img src="./assets/gtm-portfolio-button.svg" alt="GTM Engineering Portfolio" />
 </a>
 
 </div>
