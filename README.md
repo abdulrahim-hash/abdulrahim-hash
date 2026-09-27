@@ -26,16 +26,23 @@ I also work on private production systems spanning AI-assisted report generation
 
 I prefer systems with explicit contracts, deterministic state where possible, idempotency, auditability, failure handling, human approval at consequential boundaries, and clear separation between business logic and tooling.
 
-## GTM Stack
+## GTM Systems
 
-**CRM / RevOps:** HubSpot | GoHighLevel  
+ICP & segmentation | account intelligence | enrichment | lead scoring & routing | CRM architecture | signal-based workflows | outbound orchestration | lifecycle automation | reporting | QA | experimentation
+
+## Technology
+
+**CRM / Revenue Systems:** HubSpot | GoHighLevel  
 **Data & Enrichment:** Clay | Apollo | enrichment APIs | web research pipelines  
-**Sales Engagement:** Instantly | HeyReach | LinkedIn outbound workflows  
-**Automation / Orchestration:** n8n | Make | Zapier  
-**Calling / Communications:** Twilio | 3CX | WATI | SMTP2GO  
-**Engineering:** Python | JavaScript/TypeScript | SQL | REST APIs | webhooks  
-**Infrastructure:** Supabase/Postgres | Cloudflare Workers | Vercel  
-**AI Systems:** LLM APIs | structured outputs | retrieval | evidence-bound workflows | supervised AI
+**Outbound & Sales Engagement:** Instantly | HeyReach | LinkedIn outbound workflows  
+**Automation / Orchestration:** n8n | Make | Zapier | webhooks | REST APIs  
+**Calling / Communications:** Twilio | Telnyx | 3CX | WATI | SMTP2GO  
+**Engineering:** Python | JavaScript/TypeScript | SQL  
+**Infrastructure:** Supabase/Postgres | Cloudflare Workers | Vercel
+
+## AI / Agentic Systems
+
+LLM APIs | structured outputs | RAG | tool-calling workflows | agent orchestration | human-in-the-loop systems | evaluation & guardrails
 
 ## Current Focus
 
