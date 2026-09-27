@@ -8,6 +8,12 @@
 
 BS Economics @ NUST | Pakistan | Open to Remote GTM Engineering
 
+<br/>
+
+<a href="https://abdulrahim-hash.github.io/">
+  <img src="./assets/gtm-portfolio-button.svg" alt="View GTM Engineering Portfolio" />
+</a>
+
 </div>
 
 ---
@@ -34,15 +40,11 @@ An auditable account-to-outreach control plane for B2B GTM workflows.
 
 The validated pre-send pilot covers website intelligence, deterministic scoring, contact identity, verified enrichment, HubSpot synchronization, controlled outreach planning, lifecycle handling, and QA.
 
----
-
 ### Adaptive GTM Control Plane
 
 A GTM decision and orchestration system for prioritization, activation, measurement, and learning.
 
 **Status:** In development / private
-
----
 
 ### Commercial Cleaning GTM System
 
@@ -50,15 +52,11 @@ An end-to-end GTM build connecting market research, segmentation, ICP, offer des
 
 **Status:** Building and experimenting
 
----
-
 ### [FinSight](https://github.com/maybethemuhammadibrahim/Fin)
 
 A collaborative engineering project exploring contract-to-revenue reconciliation and evidence-backed financial decision support.
 
 **Role:** Collaborator
-
----
 
 ### Private Client Engineering
 
