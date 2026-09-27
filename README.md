@@ -26,14 +26,16 @@ I also work on private production systems spanning AI-assisted report generation
 
 I prefer systems with explicit contracts, deterministic state where possible, idempotency, auditability, failure handling, human approval at consequential boundaries, and clear separation between business logic and tooling.
 
-## Core Stack
+## GTM Stack
 
-**GTM / CRM:** HubSpot | GoHighLevel | Apollo  
-**Automation:** n8n | Make | Zapier  
-**Engineering:** Python | JavaScript/TypeScript | SQL | REST APIs  
-**Infrastructure:** Supabase | Cloudflare Workers | Vercel  
-**Communication / Calling:** Twilio | 3CX | SMTP2GO  
-**AI:** LLM APIs | structured outputs | retrieval and evidence-bound workflows
+**CRM / RevOps:** HubSpot | GoHighLevel  
+**Data & Enrichment:** Clay | Apollo | enrichment APIs | web research pipelines  
+**Sales Engagement:** Instantly | HeyReach | LinkedIn outbound workflows  
+**Automation / Orchestration:** n8n | Make | Zapier  
+**Calling / Communications:** Twilio | 3CX | WATI | SMTP2GO  
+**Engineering:** Python | JavaScript/TypeScript | SQL | REST APIs | webhooks  
+**Infrastructure:** Supabase/Postgres | Cloudflare Workers | Vercel  
+**AI Systems:** LLM APIs | structured outputs | retrieval | evidence-bound workflows | supervised AI
 
 ## Current Focus
 
