@@ -6,19 +6,20 @@ I build systems that connect GTM strategy to execution: ICP and segmentation, ac
 
 ## Selected work
 
-### GTM ICP Intelligence Engine
+### [GTM ICP Intelligence Engine](https://github.com/abdulrahim-hash/gtm-icp-intelligence-engine)
+
 An auditable account-to-outreach control plane for B2B GTM workflows.
 
-The validated pre-send pilot covers website intelligence, deterministic scoring, contact identity, verified enrichment, HubSpot synchronization, controlled outreach planning, lifecycle handling, and QA. Live outbound remains intentionally gated.
+The validated pre-send pilot covers website intelligence, deterministic scoring, contact identity, verified enrichment, HubSpot synchronization, controlled outreach planning, lifecycle handling, and QA. Live outbound is intentionally gated behind explicit release controls.
 
 **Stack:** n8n Â· Supabase/Postgres Â· HubSpot Â· HTTP APIs Â· deterministic scoring Â· provider abstraction
 
-> Public portfolio release is being prepared after the final publication/security gate.
-
 ### FinSight â€” collaborative engineering project
+
 [FinSight](https://github.com/maybethemuhammadibrahim/Fin) explores contract-to-revenue reconciliation and evidence-backed financial decision support. This is a team project; the repository is owned by a collaborator.
 
 ### Private client engineering
+
 I also work on private production systems spanning AI-assisted report generation, human approval workflows, web product delivery, CRM/calling integrations, automation, and operational reliability. Client source code remains private.
 
 ## Engineering approach
